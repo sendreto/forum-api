@@ -1,2 +1,2 @@
 # forum-api
-API Rest build with sprig boot
+API Rest build with spring boot
